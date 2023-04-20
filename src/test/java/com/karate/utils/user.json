@@ -1,0 +1,22 @@
+[
+  {
+  "id": 1111,
+  "username": "Arifa11111",
+  "firstName":"Arifa",
+  "lastName": "Shaik",
+  "email": "shaikarifa.asha@gmail.com",
+  "password": "Arifa@786",
+  "phone": 7330979910,
+  "userStatus": 1
+  },
+  {
+    "id": 1112,
+    "username": "Rizwana11111",
+    "firstName":"Rizwana",
+    "lastName": "Shaik",
+    "email": "shaikrizwana.asha@gmail.com",
+    "password": "Rizwana@786",
+    "phone": 7330979911,
+    "userStatus": 1
+  }
+]
